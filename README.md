@@ -20,7 +20,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Preview
 1. Seacrh : <br/>
-[Uploading Screen_recording_20240501_184906.webm…]()<br/>
+![Screenshot_20240501_184829](https://github.com/otari2002/books_TP/assets/53525728/4e6326be-afe9-4932-9d41-ea45550e9739)
+<br/>
 
 2. Book View : <br/>
 ![Capture d’écran 2024-05-01 185838](https://github.com/otari2002/books_TP/assets/53525728/5ba2bb63-7550-45d5-8ee8-f6bc36dde0b0)
